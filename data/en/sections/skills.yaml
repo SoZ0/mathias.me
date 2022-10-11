@@ -1,0 +1,75 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+skills:
+- name: Java
+  logo: /images/sections/skills/java-logo.png
+  summary: "In-depth understanding of the Java language, capable of deploying large applications for real-world use. The main language used for professional work."
+  url: "https://www.java.com"
+  
+- name: FRC
+  logo: /images/sections/skills/frc-logo.png
+  summary: "Team Captain and Lead Software Engineer on Team Hephaestus#6390, capable of designing and implementing complex systems. Can plan and program complex autonomous routines"
+  url: "https://www.firstinspires.org/robotics/frc"
+  
+- name: JavaScript
+  logo: /images/sections/skills/javascript-logo.png
+  summary: "Has created complex back-end systems to collect and process retrieved data. Able to deploy large-scale and critical applications using the language"
+  url: "https://www.javascript.com/"
+
+- name: C++
+  logo: /images/sections/skills/cpp-logo.png
+  summary: "Capable of creating programs with useful applications, used for academic learning"
+  
+- name: PHP
+  logo: /images/sections/skills/php-logo.png
+  summary: "Created multiple websites to improve an educational institution's design and speed. Used for academic purposes"
+  url: "https://www.php.net/"
+  
+- name: C#
+  logo: /images/sections/skills/csharp-logo.png
+  summary: "Created multiple automatic programs to grab and compute data to improve team workflow and insight. Capable of deploying automated systems"
+  url: "https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps"
+
+- name: Python
+  logo: /images/sections/skills/python-logo.png
+  summary: "Experienced creating programs for processing information. Mostly, personal use"
+  url: "https://www.python.org/"
+  
+- name: SQL
+  logo: /images/sections/skills/sql-logo.png
+  summary: "Managed and created large databases. Mostly, for personal use"
+  url: "https://www.mysql.com/"
+  
+- name: Linux
+  logo: /images/sections/skills/linux-logo.png
+  summary: "Capable of creating and utilizing the operating system. All programs and software created are hosted on a Linux machine"
+  
+- name: Docker
+  logo: /images/sections/skills/docker-logo.png
+  summary: "Can launch and manage docker images. In-depth knowledge of Docker Compose"
+  url: "https://www.docker.com/"
+  
+- name: Proxmox
+  logo: /images/sections/skills/proxmox-logo.png
+  summary: "Works with virtual machines daily. Can create virtual machines and manage them with relative ease. Has deployed many virtual machines for a multitude of tasks. Mostly, for personal use"
+  url: "https://www.proxmox.com/en/"
+  
+- name: Cordova
+  logo: /images/sections/skills/cordova-logo.png
+  summary: "Experienced making and developing cross-platform applications. Has made multiple applications that collected, stored and calculated important information for better team insight and management"
+  url: "https://cordova.apache.org/"
+  
+- name: HTML
+  logo: /images/sections/skills/html-logo.png
+  summary: "Capable of making stylish websites. Well-versed in the language"
+  
+
+  
+- name: CSS
+  logo: /images/sections/skills/css-logo.png
+  summary: "Strong understanding of the language. Able to create a pleasing website"

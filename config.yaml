@@ -1,0 +1,51 @@
+baseURL: https://sozo.dev
+
+languageCode: en-us
+title: "Mathias Petersen"
+theme: "toha"
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+
+
+
+enableEmoji: true
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# Site parameters
+params:
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: system
+
+  background: images/background.png
+  
+  logo:
+    main: images/site-logo.png
+    inverted: images/site-logo.png
+    favicon: images/site-favicon.png
+    
+  enableBlogPost: true
+  enableTOC: true
+  newsletter:
+    enable: false

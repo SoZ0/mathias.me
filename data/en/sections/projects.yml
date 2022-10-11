@@ -1,0 +1,156 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 6
+
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: First Robotics
+  filter: "frc"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+- name: Java
+  filter: "java"
+- name: C++
+  filter: "c++"
+- name: Javascript
+  filter: "javascript"
+- name: PHP
+  filter: "php"
+
+# your projects
+projects:
+- name: Super Formula
+  role: Owner
+  timeline: "Novemeber 2021"
+  repo: https://github.com/SoZ0/java-superformula-2d
+  summary: A visual representation of the Super Formula
+  tags: ["hobby", "java", "applets", "swing", "awt"]
+
+- name: Http Server
+  role: Owner
+  timeline: "Novemeber 2021"
+  repo: https://github.com/SoZ0/java-http-server
+  summary: A http server built without dependencies
+  tags: ["hobby", "java", "web", "backend", "standalone"]
+
+- name: Rest API
+  role: Owner
+  timeline: "Novemeber 2021"
+  repo: https://github.com/SoZ0/advance-java-rest-api
+  summary: A rest api made for getting DnD data
+  tags: ["hobby", "java", "web", "backend", "api"]
+
+- name: Special Relativity Simulator
+  role: Owner
+  timeline: "October 2022"
+  repo: https://github.com/SoZ0/Special-Relativity-Simulator
+  summary: A simulator made for a Physics 12 project, to visual Special Relativity
+  tags: ["academic", "java", "applets", "swing", "awt"]
+
+- name: FRC Plutus
+  role: Owner
+  timeline: "September 2019 - Present"
+  repo: https://github.com/FRC-6390/frc-plutus
+  summary: An emailing application to automatically email sponsors within a google sheet
+  tags: ["frc", "java", "applets", "javafx","swing","awt"]
+
+- name: FRC Prodromoi
+  role: Team Lead
+  timeline: "September 2019 - Present"
+  repo: https://github.com/FRC-6390/frc-prodromoi
+  summary: An data tracking and computing app for collecting and processing information gathered at FRC Events
+  tags: ["frc", "javascript", "cordova","css","html","firebase","google-cloud","data"]
+
+- name: Database Manager
+  role: Owner
+  timeline: "December 2020"
+  repo: https://github.com/SoZ0/advance-java-database
+  summary: A library to make SQLite database queries and management easy and simple to do in Java
+  tags: ["hobby", "java", "library", "standalone", "data","SQLite"]
+
+- name: FRC Abeona
+  role: Owner
+  timeline: "June 2021 - Present"
+  repo: https://github.com/FRC-6390/frc-abeona
+  summary: A path plotting application to visually create autonomous routines
+  tags: ["frc", "java", "applets","swing","awt"]
+
+- name: Athena Docs
+  role: Team Lead
+  timeline: "September 2022 - Present"
+  repo: https://github.com/FRC-6390/Athena-Docs
+  summary: A public website containing everything I have learn about FRC programming and how to do it
+  tags: ["frc", "javascript", "web", "markdown","docs","hugo",]
+
+- name: FRC 2022 Season
+  role: Owner
+  timeline: "September 2021 - April 2022"
+  repo: https://github.com/FRC-6390/FRC-Season-2022
+  summary: The robot code for the FRC 6390 robot "Switch Blade"
+  tags: ["frc", "java", "robotics","autonomous","competitive","swerve"]
+
+- name: Swerve 2021
+  role: Team Lead
+  timeline: "September 2020 - September 2021"
+  repo: https://github.com/FRC-6390/Swerve2021
+  summary: The code for the first successful Swerve Drive robot in British Columbia Canada
+  tags: ["frc", "java", "off-season","swerve","robotics"]
+
+################################################################
+
+- name: 
+  role: Student
+  timeline: "September 2020 - June 2021"
+  repo: https://github.com/SoZ0/java-superformula-2d
+  summary: A program made to 
+  tags: ["academic", "java", "computer-science", "sorting","algorithms","terminal","interface"]
+
+- name: 
+  role: Student
+  timeline: "September 2021 - June 2022"
+  repo: https://github.com/SoZ0/java-superformula-2d
+  summary: A program made to 
+  tags: ["academic", "c++", "computer-science", "sorting","algorithms","terminal","interface"]
+
+- name: Tensorflow
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Jun 2018 - Present"
+  repo: https://github.com/tensorflow/tensorflow
+  #url: ""
+  summary: An Open Source Machine Learning Framework for Everyone.
+  tags: ["professional", "machine-learning"]
+
+- name: A sample academic paper
+  role: Team Lead
+  timeline: "Jan 2017 - Nov 2017"
+  url: "https://www.example.com"
+  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+  tags: ["academic","iot"]
+
+- name: Nocode
+  logo: /images/sections/projects/no-code.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/kelseyhightower/nocode
+  #url: ""
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  tags: ["hobby", "fun"]
+
+- name: Toha
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Jun 2019 - Present"
+  repo: https://github.com/hossainemruz/toha
+  summary: A Hugo theme for personal portfolio.
+  tags: ["hobby","hugo","theme","professional"]
